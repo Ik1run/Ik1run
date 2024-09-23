@@ -11,16 +11,16 @@
 
 <img align="right" float="" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif">
 
-- 🔭 I’m currently doing a internship at ICT@Work
+- 🔭 I am currently in an internship at ICT@Work.
 
 
-- 🌱 I’m currently learning C# & .NET MAUI
+- 🌱 Currently deepening my knowledge of C# and .NET MAUI.
 
 
-- 🤔 My interest lies in App & Webb Development
+- 🤔 My passion lies in App & Web Development.
 
 
-- ⚡ Fun fact: My favorite color is #ffdd99
+- ⚡ Fun fact: My favorite color is #ffdd99!
 
 
 <br/>  
