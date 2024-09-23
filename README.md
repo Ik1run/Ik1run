@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning C# & .NET MAUI
 
 
-- ❓ You can contact me through [here](https://www.linkedin.com/in/davy-smit-a47b64207/)
+- ❓ You can E-Mail me through [here](davixsmit@gmail.com)
 
 
 - ⚡ Fun fact: I also stream games [here](https://www.twitch.tv/hedyhx)
