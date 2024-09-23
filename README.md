@@ -62,8 +62,8 @@
 <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" height="50" spacing="20"/>
 </a>
   
-<a href="" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" height="50"/>
+<a href="https://x.com/Ik1run" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/3670/3670211.png" height="50"/>
 </a> 
 
 <a href="https://www.linkedin.com/in/davy-smit-a47b64207/" target="_blank">
