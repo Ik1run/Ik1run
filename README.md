@@ -70,7 +70,7 @@
 ## Socials
 
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://i.pinimg.com/originals/b4/6e/53/b46e534af2aafe9c01e5ba6fa4558c30.gif" style="height:190px"/>
+<img src="https://i.pinimg.com/originals/b4/6e/53/b46e534af2aafe9c01e5ba6fa4558c30.gif" style="height:200px"/>
 
 <div align="center">  
 <a href="https://x.com/Ik1run" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" height="50"/></a>
