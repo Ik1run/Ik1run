@@ -20,9 +20,6 @@
 - 🤔 My interest lies in App & Webb Development
 
 
-- ❓ You can E-Mail me through [here](davixsmit@gmail.com)
-
-
 - ⚡ Fun fact: My favorite color is #ffdd99
 
 
