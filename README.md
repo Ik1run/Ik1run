@@ -1,4 +1,4 @@
-## <div align="center">I'm Indra Niko Saputra <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Davy Smit <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -10,16 +10,16 @@
 ### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>
 
 
-- 🔭 I’m currently looking for internship
+- 🔭 I’m currently doing a internship at ICT@Work
 
 
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning C# & .NET MAUI
 
 
-- ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)
+- ❓ You can contact me through [here](https://www.linkedin.com/in/davy-smit-a47b64207/)
 
 
-- ⚡ Fun fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
+- ⚡ Fun fact: I also stream games [here](https://www.twitch.tv/hedyhx)
 
 
 <br/>  
