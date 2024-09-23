@@ -20,7 +20,7 @@
 - ❓ You can E-Mail me through [here](davixsmit@gmail.com)
 
 
-- ⚡ Fun fact: I also stream games on twitch [here](https://www.twitch.tv/hedyhx)
+- ⚡ Fun fact: My favorite color is #ffdd99
 
 
 <br/>  
