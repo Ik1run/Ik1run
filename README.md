@@ -83,3 +83,8 @@
 <br/>
 
 </div>
+
+----
+Made by: [Ik1run](https://github.com/Ik1run)
+
+Last Edited on: 23-09-2024
