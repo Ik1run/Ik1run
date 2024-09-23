@@ -3,8 +3,6 @@
 <br>
 <div style ="display:flex;" align="center">
   <img src="https://img.freepik.com/premium-photo/kitty-cat-small-funny-serous-anime-style-cartoon-emoji_795524-1972.jpg" style="width:250px"/>
-  <img src="" style="height:200px"/>
-  <img src="" style="width:230px"/>
 </div>
 
 ### <div align="center">I'm a Student at Astrum College studying the wide world of coding!</div>
