@@ -2,7 +2,7 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="![thumbnail_1st_emote_-_Cheers (1)](https://github.com/user-attachments/assets/135f671f-e131-41a6-a1e6-2a1377c77622)" style="width:250px"/>
+  <img src="https://img.freepik.com/premium-photo/kitty-cat-small-funny-serous-anime-style-cartoon-emoji_795524-1972.jpg" style="width:250px"/>
   <img src="" style="height:200px"/>
   <img src="" style="width:230px"/>
 </div>
