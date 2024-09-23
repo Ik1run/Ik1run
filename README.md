@@ -1,4 +1,4 @@
-## <div align="center">I'm Davy Smit <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Davy Smit <img src="https://cdn3.emoji.gg/emojis/7415-cute-cat.png" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
