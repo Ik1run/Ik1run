@@ -1,4 +1,4 @@
-## <div align="center" style="line-height: 1;">I'm Davy Smit <img src="https://i.pinimg.com/originals/5d/06/c3/5d06c3d1115da4906fb1b269f4f4c188.png" style="width:35px; position:relative; top:6px;"/></div>
+## <div align="center" style="line-height: 1;">I'm Ikirun <img src="https://cdn.pixabay.com/photo/2017/09/23/16/33/pixel-heart-2779422_1280.png" style="width:15px; position:relative; top:6px;"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
