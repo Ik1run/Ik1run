@@ -1,13 +1,15 @@
-## <div align="center">I'm Davy Smit <img src="https://cdn3.emoji.gg/emojis/7415-cute-cat.png" style="width:20px"/></div>
+## <div align="center" style="line-height: 1;">I'm Davy Smit <img src="https://i.pinimg.com/originals/5d/06/c3/5d06c3d1115da4906fb1b269f4f4c188.png" style="width:35px; position:relative; top:6px;"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://img.freepik.com/premium-photo/kitty-cat-small-funny-serous-anime-style-cartoon-emoji_795524-1972.jpg" style="width:450px"/>
+  <img src="https://i.gifer.com/YAg6.gif" style="width:200px"/>
 </div>
 
-### <div align="center">I'm a Student at Astrum College studying the wide world of coding!</div>
+### <div align="center">I am currently studying software development at Astrum College, exploring a wide range of programming languages.</div>
 
 <br/>
+
+<img align="right" float="" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif">
 
 - 🔭 I’m currently doing a internship at ICT@Work
 
@@ -23,88 +25,52 @@
 
 <br/>  
 
-## Tech Stack
+## Skills
 
+<br/>
 <table align="center">
 <tr><td align="top" width="33%">
 
-<h3 align="center">Frontend </h3>
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<h3 align="center">Intermediate </h3>
+
+<div align="center">
+<a href="https://nl.wikipedia.org/wiki/HyperText_Markup_Language" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="C#" height="50" /></a>  
+<a href="https://nl.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" height="50" /></a>  
+<a href="https://nl.wikipedia.org/wiki/PHP" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/15474/15474204.png" alt="PHP" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
+<h3 align="center">Beginner</h3>
 
-
-<h3 align="center">Backend </h3>
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
- <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h3 align="center">Language </h3>
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" /></a>   
 </div>
 
 </td></tr></table>
 
-<br/>  
-
 
 ## Connect with me
-<div align="center">
-<a href="https://github.com/Niko-Cloud" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<div align="center" style="display:inline-block;flex-wrap:nowrap";>
+<img src="https://i.pinimg.com/originals/b4/6e/53/b46e534af2aafe9c01e5ba6fa4558c30.gif" style="height:190px"/>
+
+<div align="center" style="text-decoration:none";>
+<a href="https://github.com/Ik1run" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" height="50" spacing="20"/>
 </a>
+  
 <a href="https://twitter.com/Yuki_Hime_Shira" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/indra.niko.714" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+<img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" height="50"/>
+</a> 
+
 <a href="https://linkedin.com/in/yuki-hime" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="50"/>
 </a>
 </div>  
-<br/>
-<div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Niko-Cloud&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
+<br/>
 
 </div>
-
-
-#
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oqw4q4lmris3kpeqeyi4ojxnkm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Niko-Cloud&&style=flat-square" align="center" />
-</div>   
-
-<br />
-
-------
-
-[Niko-Cloud](https://github.com/Niko-Cloud)
-Last Edited 07/11/2022
