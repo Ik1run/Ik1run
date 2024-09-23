@@ -9,6 +9,7 @@
 
 ### <div align="center">I'm a Student at Astrum College studying the wide world of coding!</div>
 
+<br/>
 
 - 🔭 I’m currently doing a internship at ICT@Work
 
@@ -23,8 +24,6 @@
 
 
 <br/>  
-
-<br/>
 
 ## Tech Stack
 
