@@ -62,11 +62,11 @@
 <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" height="50" spacing="20"/>
 </a>
   
-<a href="https://twitter.com/Yuki_Hime_Shira" target="_blank">
+<a href="" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" height="50"/>
 </a> 
 
-<a href="https://linkedin.com/in/yuki-hime" target="_blank">
+<a href="https://www.linkedin.com/in/davy-smit-a47b64207/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" height="50"/>
 </a>
 </div>  
