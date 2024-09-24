@@ -77,7 +77,7 @@
 <a href="https://www.reddit.com/user/Ik1run/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504934.png" height="50"/></a>
 <a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" height="50"/></a> 
 <a href="https://nl.pinterest.com/Ik1run/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504932.png" height="50" spacing="20"/></a> 
-<a href="https://www.linkedin.com/in/davy-smit-a47b64207/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" height="50"/></a>
+<a href="https://www.linkedin.com/in/ikirun/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" height="50"/></a>
 </div>
 <br/>
 
