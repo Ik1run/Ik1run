@@ -14,7 +14,7 @@
 - 🔭 I am currently in an internship at ICT@Work.
 
 
-- 🌱 Currently improving my knowledge of C# and .NET MAUI.
+- 🌱 Currently improving my knowledge of C# and ASP.Net
 
 
 - 🤔 My passion lies in App & Web Development.
