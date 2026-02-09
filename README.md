@@ -72,8 +72,8 @@
 <a href="https://x.com/Ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
 <a href="https://www.reddit.com/user/Ik1run/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-<a href="https://github.com/Ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
+
 
 <br/>
 
