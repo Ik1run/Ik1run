@@ -25,14 +25,6 @@
 
 <br/>  
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ik1run&show_icons=true&theme=radical" />
-</div>
-
-<br/>
-
 ## Skills
 
 <br/>
