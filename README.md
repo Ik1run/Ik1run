@@ -30,20 +30,9 @@
 <br/>
 
 <table align="center">
-<tr><td align="top" width="33%">
+<tr><td align="top" width="50%">
 
-<h3 align="center">Adobe Intermediate</h3>
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Adobe_InDesign" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="Indesign" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Adobe_XD" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968559.png" alt="XD" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Adobe_Premiere_Pro" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" alt="Premiere" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<h3 align="center">Intermediate</h3>
+<h3 align="center">Programming - Advanced</h3>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" height="50" /></a> 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" height="50" /></a> 
@@ -52,14 +41,30 @@
 <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/15474/15474204.png" alt="PHP" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
-
-
-<h3 align="center">Beginner</h3>
+<h3 align="center">Programming - Learning</h3>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" alt="SQL" height="50" /></a>
+</div>
+
+</td></tr>
+<tr><td align="top" width="50%">
+
+<h3 align="center">Adobe - Intermediate</h3>
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Adobe_InDesign" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="Indesign" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Adobe_XD" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968559.png" alt="XD" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="50%">
+
+<h3 align="center">Adobe - Beginner</h3>
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Adobe_Premiere_Pro" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" alt="Premiere" height="50" /></a>  
 </div>
 
 </td></tr></table>
@@ -84,4 +89,4 @@
 ----
 Made by: [Ik1run](https://github.com/Ik1run)
 
-Last Edited on: 23-09-2024
+Last Edited on: 09-02-2026
