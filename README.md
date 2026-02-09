@@ -14,7 +14,7 @@
 - 🔭 I am currently in an internship at Rouse 2 Action.
 
 
-- 🌱 Currently improving my knowledge of Typescript
+- 🌱 Currently improving my knowledge of TypeScript
 
 
 - 🤔 My passion lies in App & Web Development.
@@ -52,7 +52,7 @@
 
 <br/>
 
-### <div align="center">🎨 Adobe</div>
+### <div align="center">🎨 Adobe Creative Suite</div>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" alt="Photoshop" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Adobe_InDesign" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="InDesign" height="50" /></a>  
@@ -67,7 +67,7 @@
 
 ## Connect with me
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <a href="https://www.linkedin.com/in/ikirun/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/Ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
@@ -76,7 +76,6 @@
 </div>
 
 <br/>
-</div>
 
 ----
 Made by: [Ik1run](https://github.com/Ik1run)
