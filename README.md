@@ -36,6 +36,7 @@
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" height="50" /></a> 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" alt="SQL" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Laravel" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/919/919830.png" alt="PHP" height="50" /></a>
 </div>
 
 <br/>
@@ -46,7 +47,6 @@
 <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="TypeScript" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="React" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Next.js" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/Laravel" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/919/919830.png" alt="Laravel" height="50" /></a>
 </div>
 
 <br/>
