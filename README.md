@@ -46,7 +46,7 @@
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" alt="React" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Next.js" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/Laravel" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/919/919830.png" alt="Laravel" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Laravel" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" /></a>
 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="ASP.NET" height="50" /></a>
 </div>
 
@@ -58,13 +58,12 @@
 <a href="https://en.wikipedia.org/wiki/Adobe_InDesign" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968482.png" alt="InDesign" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Adobe_XD" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968559.png" alt="XD" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Adobe_Premiere_Pro" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Adobe_Lightroom" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968409.png" alt="Lightroom" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Adobe_Lightroom" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Adobe_After_Effects" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968410.png" alt="After Effects" height="50" /></a>
 </div>
 
 <br/>
-
 </div>
 
 ----
