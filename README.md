@@ -67,7 +67,7 @@
 
 ## Connect with me
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 <a href="https://www.linkedin.com/in/ikirun/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/Ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
