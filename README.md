@@ -65,6 +65,31 @@
 
 <br/>
 
+## Connect with me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ikirun/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/Ik1run" target="_blank">
+<img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank">
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.reddit.com/user/Ik1run/" target="_blank">
+<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="margin-bottom: 5px;" />
+</a>
+<a href="https://nl.pinterest.com/Ik1run/" target="_blank">
+<img src="https://img.shields.io/badge/pinterest-%23E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Ik1run" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<br/>
+
 </div>
 
 ----
