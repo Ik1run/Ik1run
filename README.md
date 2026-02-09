@@ -11,10 +11,10 @@
 
 <img align="right" float="" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif">
 
-- 🔭 I am currently in an internship at ICT@Work.
+- 🔭 I am currently in an internship at Rouse 2 Action.
 
 
-- 🌱 Currently improving my knowledge of C# and ASP.Net
+- 🌱 Currently improving my knowledge of Typescript
 
 
 - 🤔 My passion lies in App & Web Development.
