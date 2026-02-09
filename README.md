@@ -60,10 +60,11 @@
 <a href="https://en.wikipedia.org/wiki/Adobe_Premiere_Pro" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968525.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Adobe_Lightroom" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" alt="Illustrator" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Adobe_After_Effects" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/5968/5968410.png" alt="After Effects" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Adobe_After_Effects" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="After Effects" height="50" /></a>
 </div>
 
 <br/>
+
 </div>
 
 ----
