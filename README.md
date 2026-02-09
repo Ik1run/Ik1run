@@ -71,11 +71,11 @@
 <img src="https://i.pinimg.com/originals/b4/6e/53/b46e534af2aafe9c01e5ba6fa4558c30.gif" style="height:200px"/>
 
 <div align="center">  
-<a href="https://x.com/Ik1run" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" height="50" href="_blank"/></a>
-<a href="https://www.reddit.com/user/Ik1run/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504934.png" height="50" href="_blank"/></a>
-<a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" height="50" href="_blank"/></a> 
-<a href="https://nl.pinterest.com/Ik1run/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504932.png" height="50" spacing="20" href="_blank"/></a> 
-<a href="https://www.linkedin.com/in/ikirun/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" height="50" href="_blank"/></a>
+<a href="https://x.com/Ik1run" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" height="50" target="_blank"/></a>
+<a href="https://www.reddit.com/user/Ik1run/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504934.png" height="50" target="_blank"/></a>
+<a href="https://stackoverflow.com/users/27420073/ik1run" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" height="50" target="_blank"/></a> 
+<a href="https://nl.pinterest.com/Ik1run/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504932.png" height="50" spacing="20" target="_blank"/></a> 
+<a href="https://www.linkedin.com/in/ikirun/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" height="50" target="_blank"/></a>
 </div>
 <br/>
 
